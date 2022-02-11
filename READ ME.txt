@@ -1,0 +1,10 @@
+-The program reads from in.txt and outputs to out.txt
+-0 means a dead cell, 1 or anything else than 0 (or newline)
+means a cell is alive, newline means new row
+-e.g. the glider:
+00000
+00100
+10100
+01100
+00000
+-the output is given in the same form
